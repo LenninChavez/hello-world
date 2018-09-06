@@ -1,0 +1,6 @@
+var persona={};
+var persona={
+  nombre:"Juan",
+  ape1:"Garcia",
+  edad:34
+}
